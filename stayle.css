@@ -1,0 +1,46 @@
+body{
+    background-color: #ffffff;
+}
+h1 {
+    background-color: gold;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+}
+header{
+    text-align: left;
+}
+strong{
+    text-decoration: underline;
+    font-size: large;
+}
+ul{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+}
+.gg{
+    font-weight: bold;
+}
+.food{
+    background-color: rgba(186, 211, 98, 0.342);
+        border-radius: 22px;
+    padding: 15px 20px;
+    text-align: center;
+}
+footer {
+    background-color: rgb(175, 175, 72);
+    color: #111;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+@media(min-width: 768px) {
+    ul {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+}
