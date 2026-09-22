@@ -1,26 +1,26 @@
-#yellow restaurante
+# Yellow Restaurante
 
- e um site onde eu treino 5 vezes por semana, para evoluir de pouco em pouco aprendendo bem.
+Site de restaurante criado para praticar desenvolvimento web
+cinco vezes por semana e aprender aos poucos.
 
-#pretendo usar
- java
- node
- mais
-#estou usando
- html 
- css
+## Tecnologias utilizadas
 
-#para abrir o site
+- HTML
+- CSS
 
- so copiar o link http do github.
+## Como abrir o site
 
-#oque eu usei ate a gora
+1. Baixe o projeto no GitHub em Code > Download ZIP.
+2. Extraia a pasta.
+3. Abra site_amarelo.html no navegador.
 
- eu ja sabia, so o git que aprofundei mais.
+## O que aprendi
 
-#oque pretendo colocar
+Revisei HTML e CSS e aprofundei meus conhecimentos em Git:
+criei commits e enviei o projeto ao GitHub.
 
- banco de dados
- java
- node
- mais
+## Próximas melhorias
+
+- Adicionar interações com JavaScript.
+- Criar uma API com Node.js.
+- Usar um banco de dados para guardar os pratos.
